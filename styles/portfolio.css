@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family:'Mukta', sans-serif;
+}
+
+/* header and navigation style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin:50px 200px;
+}
+nav-tittle{
+    font-weight: 800;
+    font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+.text-primany{
+    color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
